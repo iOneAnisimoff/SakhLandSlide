@@ -1,5 +1,5 @@
 # SakhLandSlide
-Application for forecasting seismogenic landslides
+Application for forecasting seismogenic landslides on Sakhalin Island.
 
 This application was developed as part of the final qualifying work.
 
